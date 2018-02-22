@@ -1,0 +1,6 @@
+#UE4 project directories to ignore
+
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
