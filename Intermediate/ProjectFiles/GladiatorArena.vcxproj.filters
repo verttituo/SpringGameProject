@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\GladiatorArena.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{7E9480D3-8C29-4781-B4B6-341008F22ABB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GladiatorArena.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\GladiatorArenaEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{95062539-EA81-4F4B-825A-293F03051DBA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\GladiatorArena">
+			<UniqueIdentifier>{B505DC08-BA93-4F58-AEE2-35B3ECE13C34}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\GladiatorArena\blueprintimplementableActor.cpp">
+			<Filter>Source\GladiatorArena</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GladiatorArena\blueprintimplementableActor.h">
+			<Filter>Source\GladiatorArena</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\GladiatorArena\GladiatorArena.Build.cs">
+			<Filter>Source\GladiatorArena</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\GladiatorArena\GladiatorArena.cpp">
+			<Filter>Source\GladiatorArena</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GladiatorArena\GladiatorArena.h">
+			<Filter>Source\GladiatorArena</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GladiatorArena\GladiatorArenaGameModeBase.cpp">
+			<Filter>Source\GladiatorArena</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GladiatorArena\GladiatorArenaGameModeBase.h">
+			<Filter>Source\GladiatorArena</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

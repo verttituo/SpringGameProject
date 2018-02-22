@@ -1,0 +1,3 @@
+C:\Users\mirosal\Documents\Unreal Projects\GladiatorArena\Source\GladiatorArena\GladiatorArena.Build.cs
+C:\Users\mirosal\Documents\Unreal Projects\GladiatorArena\Source\GladiatorArena.Target.cs
+C:\Users\mirosal\Documents\Unreal Projects\GladiatorArena\Source\GladiatorArenaEditor.Target.cs
